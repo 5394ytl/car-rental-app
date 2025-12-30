@@ -1,0 +1,50 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.tmp
+*.log
+*.vs/
+*.vscode/settings.json
+
+# Node.js / Vite
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# SQL / Databases
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Build outputs
+build/
+out/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
