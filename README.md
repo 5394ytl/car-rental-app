@@ -1,4 +1,5 @@
 # Car Rental App
+<img width="1900" height="868" alt="1 (1)" src="https://github.com/user-attachments/assets/4fb1cb79-066b-4a56-ab3e-fa504a189357" />
 
 Frontend: React  
 Backend: .NET  
